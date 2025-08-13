@@ -1,3 +1,10 @@
+**CEMPWeb
+
+Projeto criado em forma de estudo sobre REACT utilizando VITE.
+Projeto sendo criado para uma Corretora de Seguros.
+A idéia inicial é exibir uma página "Cotação" onde o usuário seleciona qual compania de seguros quer cotar, e acessa por meio de clique em foto ou botão.
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
